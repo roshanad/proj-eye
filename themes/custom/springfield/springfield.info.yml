@@ -3,3 +3,15 @@ description: 'Springfield Eye Doctor'
 type: theme
 core: 8.x
 base theme: classy
+
+regions:
+  header: 'Header'
+  slideshow: 'Slideshow'
+  intro: 'Intro'
+  header_button: 'Header Button'
+  staff: 'Staff'
+  sidebar: 'Sidebar'
+  footer_first: 'Footer First'
+  footer_second: 'Footer Second'
+  footer_bottom: 'Footer Bottom'
+  
