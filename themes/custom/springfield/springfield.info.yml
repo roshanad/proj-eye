@@ -14,4 +14,7 @@ regions:
   footer_first: 'Footer First'
   footer_second: 'Footer Second'
   footer_bottom: 'Footer Bottom'
-  
+
+libraries:
+  - springfield/fonts
+  - springfield/bootstrap-grid
